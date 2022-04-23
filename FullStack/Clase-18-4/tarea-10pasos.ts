@@ -1,0 +1,11 @@
+console.log("a)Pasos a seguir para ir al trabajo");
+console.log("Abrir los ojos");
+console.log("Apagar la alarma");
+console.log("Levantarse");
+console.log("Bañarse");
+console.log("Vestirse");
+console.log("Alistarse para salir");
+console.log("Poner a calentar el auto");
+console.log("Subirse al auto");
+console.log("Manejar hasta la ubicación de la oficina");
+console.log("Entrar al trabajo");

@@ -1,0 +1,11 @@
+console.log("segundo ejercicio de la granjera");
+console.log("avanzar");
+console.log("llenar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("llenar");
+console.log("avanzar");
+console.log("eliminar");
+console.log("avanzar");
+console.log("eliminar");
